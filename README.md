@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **working on analyzing [specific dataset or domain, e.g., healthcare, finance, social media trends, etc.] to uncover insights and build predictive models."**
 
-- 🌱 I’m currently learning **MACHINE LEARNING , DATA SCIENCE**
+- 🌱 I’m currently learning **MACHINE LEARNING , DATA SCIENCE**, JAVA DSA + CORE"
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pras203](https://github.com/Pras203)
 
